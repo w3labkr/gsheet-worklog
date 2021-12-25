@@ -6,6 +6,9 @@
 
 [데모 스프레드 시트](https://docs.google.com/spreadsheets/d/1MA-8B3IU4nXG3l5OCBaBxQUrWiXDqQu7tYhUWT8davk/edit?usp=sharing)로 이동 후 사본을 생성하여 사용 하세요.
 
+- 활성 시트: 정보, 요약, 상세, 사원, 직원
+- 숨김 시트: 년간, 월간, 연차, 휴일, 휴게, 휴가, 목록, 샘플, 달력
+
 ## 새로운 사원 등록 하는 방법
 
 - 직원 시트를 복사하여 새로운 사원 이름으로 변경해 주세요.
