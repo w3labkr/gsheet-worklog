@@ -1,10 +1,10 @@
-# 출퇴근일지 - 구글 스프레드 시트
+# 근무일지 - 구글 스프레드 시트
 
 출퇴근시간 작성 시 주별, 월별 및 년간 근무시간 및 연차정보를 조회 할 수 있는 구글 스프레드 시트 양식 입니다.
 
 ## 다운로드
 
-[데모 스프레드 시트](https://docs.google.com/spreadsheets/d/1MA-8B3IU4nXG3l5OCBaBxQUrWiXDqQu7tYhUWT8davk/edit?usp=sharing)로 이동 후 사본을 생성하여 사용 하세요.
+[데모 스프레드 시트](https://docs.google.com/spreadsheets/d/1cqS0b_opkmaDRHdqJgc_gKpwfroTzu881Un1Tjl9mJI/edit?usp=sharing)로 이동 후 사본을 생성하여 사용 하세요.
 
 - 활성 시트: 정보, 요약, 상세, 사원, 직원
 - 숨김 시트: 년간, 월간, 연차, 휴일, 휴게, 휴가, 목록, 샘플, 달력
