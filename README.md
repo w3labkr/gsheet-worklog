@@ -1,6 +1,6 @@
 # 근무일지 - 구글 스프레드 시트
 
-출퇴근시간 작성 시 주별, 월별 및 년간 근무시간 및 연차정보를 조회 할 수 있는 구글 스프레드 시트 양식 입니다.
+근무시간 작성 시 주별, 월별 및 년간 근무시간 및 연차정보를 조회 할 수 있는 구글 스프레드 시트 양식 입니다.
 
 ## 다운로드
 
@@ -30,34 +30,28 @@
 
 ## 주요 시트 정보
 
-- 요약: 특정년도를 선택하여 모든 직원들에 대한 근무시간 및 연차 정보를 확인할 수 있습니다.
-![summary](screenshot-summary.png)
+요약: 특정년도를 선택하여 모든 직원들에 대한 근무시간 및 연차 정보를 확인할 수 있습니다.
+![summary](screenshots/summary.png)
 
-- 년간: 특정년도를 기준으로 이후 12년간 모든 직원 들의 근무시간 정보를 확인할 수 있습니다.
-![yearly](screenshot-yearly.png)
+상세: 특정직원에 대한 상세 정보를 확인할 수 있습니다.
+![detail](screenshots/detail.png)
 
-- 월간: 특정년도에 해당하는 모든 직원들에 대한 근무시간 정보를 월간 정보로 확인할 수 있습니다.
-![monthly](screenshot-monthly.png)
+사원: 직원들에 대한 정보를 입력해 주세요.
+![employees](screenshots/employees.png)
 
-- 상세: 특정직원에 대한 상세 정보를 확인할 수 있습니다.
-![detail](screenshot-detail.png)
+직원: 새로운 사원이 추가될때 사용 됩니다.
+![employee](screenshots/employee.png)
 
-- 사원: 직원들에 대한 정보를 입력해 주세요.
-![employees](screenshot-employees.png)
-
-- 직원: 새로운 사원이 추가될때 사용 됩니다.
-![employee](screenshot-employee.png)
-
-- 연차: 연차 일수를 계산할때 사용 됩니다.
-![annual](screenshot-annual.png)
-
-- 휴일: 휴일을 표시하기 위해 사용 됩니다.
-![holiday](screenshot-holiday.png)
+휴일: 휴일을 표시하기 위해 사용 됩니다.
+![holiday](screenshots/holiday.png)
 
 ## 기타 시트 정보
 
+- 년간: 특정년도를 기준으로 이후 12년간 모든 직원 들의 근무시간 정보를 확인할 수 있습니다.
+- 월간: 특정년도에 해당하는 모든 직원들에 대한 근무시간 정보를 월간 정보로 확인할 수 있습니다.
 - 달력: 음력 휴일을 계산 하기 위해 사용 됩니다.
 - 샘플: 동적으로 날짜를 계산 하기 위해 사용 됩니다.
+- 연차: 연차 일수를 계산할때 사용 됩니다.
 - 휴가: 휴가 일수를 부여할때 참고할 수 있는 내용 입니다.
 - 휴게: 근무시간 계산에 사용 됩니다.
 - 목록: 모든 시트에 공통적으로 사용 됩니다.
